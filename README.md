@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 🌟 Aspects that define me:
   
-  📚 The constant quest for knowledge and the joy of learning something new every day.
-  🤝 I thrive on collaborating with fellow enthusiasts to build solutions that positively impact the world.
-  🔗 Connecting ideas and code to create experiences that go beyond the ordinary.
-  🌐 I'm always open to exchanging knowledge, discussing ideas, and collaborating on innovative projects. Take a peek at my repositories to explore my code adventures and share the excitement!
+ * 📚 The constant quest for knowledge and the joy of learning something new every day.
+ * 🤝 I thrive on collaborating with fellow enthusiasts to build solutions that positively impact the world.
+ * 🔗 Connecting ideas and code to create experiences that go beyond the ordinary.
+ * 🌐 I'm always open to exchanging knowledge, discussing ideas, and collaborating on innovative projects. Take a peek at my repositories to explore my code adventures and share the excitement!
 
 <!-- 📫 Let's connect! Feel free to find me on LinkedIn [your_profile_link], where we can discuss the latest advancements in Python, PyTorch, ROS, and beyond. -->
 
